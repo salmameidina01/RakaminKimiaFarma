@@ -16,5 +16,5 @@ Tabel 'tabel_analisa' dibuat dari JOIN 3 tabel
   - 'nett_profit': 'nett_sales * persentase_gross_laba'
 
 ## Author
-Nama: Salma Meidina Putri
-Tanggal: 9 September 2026
+**Nama**: 'Salma Meidina Putri'
+**Tanggal**: '9 September 2026'
